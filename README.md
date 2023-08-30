@@ -4,7 +4,7 @@
 
 Once the doctors have submitted there bid or consultation on user post, user has the independence to choose between various consultations of different doctor which he/she thinks is economically, or is best suited. User has to pay the consultation fee for the Consultation of the respected doctor. After the Payment is done Doctor will send user an Email for the same.
 
-Moreover,User and Doctor will both be able to Update the Profile Picture and their respected data.
+Moreover, user and doctor will both be able to Update the Profile Picture and their respected data.
 
 # Following are the Screenshot of the Arogyam Frontend with its functionality -
 
